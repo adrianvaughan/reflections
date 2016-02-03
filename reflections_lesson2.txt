@@ -10,8 +10,9 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical change?
 	By checking changes using git diff between updated files, and all changes.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	Different versions can be tested. Additions, different languages etc., while keeping the initial file clear for continuation.
 
 How do the diagrams help you visualize the branch structure?
 
