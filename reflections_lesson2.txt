@@ -23,5 +23,6 @@ the diagram the way we do?
 
 	Because it takes previous files from both branches reconnected, and changes to different parts of the code can be seen overtime through different branch of file updates.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
+
+	Manually, mistakes can be made, but it keeps it gives user the opportunity to double check. Automerging also could be full of mistakes, but no opportunity to double check.
