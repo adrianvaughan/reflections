@@ -14,3 +14,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	To allow ease of editing.
 	
+How would you collaborate without using Git or GitHub? What might be easier or harder?
+
+	Collaboration would require both Git and GitHub. Git to make larger changes locally before pushing alt branches. GitHub could be used for smaller, more straight forward changes.
